@@ -1,0 +1,38 @@
+.two{
+    background-image: url(img/03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0;
+}
+.b{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.b tr td{
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+.b tr td input{
+    color: black;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid gray;
+}
+.b tr td button{
+    height: 35px; 
+    background: transparent;
+    width: 85px;
+    border: none;
+    border: 2px solid ;     
+    font-weight: 500;
+    transition: .4s;
+    
+}
+.b tr td button:hover{
+    color: aliceblue;
+    background:black ;
+}
